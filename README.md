@@ -4,7 +4,7 @@ This is an [prank using onePK](http://networklore.com/onepk-prank/).
 
 ## DOCUMENTATION
 
-For more information visit the [Networklore]((http://networklore.com/onepk-prank/) homepage
+For more information visit the [Networklore](http://networklore.com/onepk-prank/) homepage
 
 
 ## INSTALLATION
